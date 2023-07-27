@@ -12,9 +12,9 @@ I genuinely love how inconsistent and strange it can be in comparison to other f
 
 So why write an article on 400D at 1 AM instead of on 800T? Firstly, you can actually shoot it during the day- when things actually happen around here- secondly... I actually have no clue but look at these kickass pictures lmfao- none of these have been edited in any way since being scanned (except cropping), I'll be saving that for when I eventually post these somewhere less scuffed.
 
-![Car](/_posts/Photography/2023-07-27-Demo/0.jpg "Car")
-![Car](/_posts/Photography/2023-07-27-Demo/1.jpg "Car")
-![Car](/_posts/Photography/2023-07-27-Demo/2.jpg "Car")
-![Car](/_posts/Photography/2023-07-27-Demo/3.jpg "Car")
-![Car](/_posts/Photography/2023-07-27-Demo/4.jpg "Car")
-![Car](/_posts/Photography/2023-07-27-Demo/croppec.jpg "Car")
+![Car](/assets/photos/2023-07-27-Demo/0.jpg "Car")
+![Car](/assets/photos/2023-07-27-Demo/1.jpg "Car")
+![Car](/assets/photos/2023-07-27-Demo/2.jpg "Car")
+![Car](/assets/photos/2023-07-27-Demo/3.jpg "Car")
+![Car](/assets/photos/2023-07-27-Demo/4.jpg "Car")
+![Car](/assets/photos/2023-07-27-Demo/cropped.jpg "Car")
