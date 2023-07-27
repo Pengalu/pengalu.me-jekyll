@@ -46,7 +46,7 @@ title: Blog
 
         <ul>
             {% for category in site.categories %}
-            <li> {{category}}<ul>
+            <li> {{category[0]}}<ul>
                 {% for post in site.posts %}
                 <li>
                     <a href="{{ post.url }}">{{ post.title }}</a>
