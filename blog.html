@@ -45,13 +45,19 @@ title: Blog
     <div class="content" style="font-family: 'Fira Sans', sans-serif;">
 
         <ul>
-            {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
+            {% for category in site.categories %}
+            <li> {{category.name}}<ul>
+                {% for post in site.posts %}
+                <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+                {% endfor %}</ul>
             </li>
             {% endfor %}
         </ul>
 
     </div>
-
+        <a style="font-family: 'Fira Sans', sans-serif;" href="https://pengalu.me">
+            Return to <span style="color:rgb(147, 170, 233);">home?</span>
+        </a>
 </body>
