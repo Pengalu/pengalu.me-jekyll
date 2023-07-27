@@ -5,17 +5,6 @@ dateInformal: "July 27, 2023"
 author: "Pengalu"
 category : "Photography"
 ---
-<head>
-    <title>{{page.title}}</title>
-    <meta charset="utf-8">
-    <meta name="viewport"
-        content="initial-scale=1.0, maximum-scale=1.0,minimum-scale=0.5, user-scalable=0,width=device-width">
-    <meta name="description" content="blog or something.">
-    <meta name="author" content="Pengalu">
-
-    <meta name="viewport" content="width=device-width" />
-
-</head>
 
 # God I love Cinestill
 Cinestill produces some fucking sick film stocks. I know it's stereotypical for the average young buck photographer who got into film for the "aesthetic" to fall in love with 800T but
