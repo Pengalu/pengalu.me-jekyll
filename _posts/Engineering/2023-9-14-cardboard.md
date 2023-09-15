@@ -15,3 +15,8 @@ Yesterday we entered our research phase by coming up with a list of designers an
 beautiful graphical designs but his furniture works were less striking. Kendrick Kellogg was another interesting choice, and the idea of using his High Desert House work as inspiration for a tabletop shelf / storage rack was interesting, but ultimately we decided
 against it, even though it was close. Other suggestions included Zaha Hadid- whose style we didn't all agree on- and Frank Lloyd Wright- the creator of Falling Waters.
 
+Ultimately, it was the work of Jürgen Mayer- and his firm J. MAYER H. that beat the other contestants. We determined the final architect via a Pugh chart. We drew most of our thoughts on Jürgen Mayer from his work in Seville, Spain- the Metropol Parasol. It acts as a covering 
+for a parking garage and plaza, but we realized that you could very easily integrate a similar cross-hatched, natural design into a table. Our Pugh chart rated all the contestants based on 4 criteria: 
+Viability, Style, Strength, and Cad-ability. 
+Mayer placed highly in viability for construction, style, and strength especially because basing the design of the furniture piece off of an actual canopy-like structure would make it easy to have a mostly clear space below it. Unfortunately, Cad-ability was low- the cross hatching
+was a concern, but we decided it'd be worth a shot after Mayer's work beat the closest other designer- Frank Lloyd Wright- in most categories.
