@@ -20,3 +20,6 @@ for a parking garage and plaza, but we realized that you could very easily integ
 Viability, Style, Strength, and Cad-ability. 
 Mayer placed highly in viability for construction, style, and strength especially because basing the design of the furniture piece off of an actual canopy-like structure would make it easy to have a mostly clear space below it. Unfortunately, Cad-ability was low- the cross hatching
 was a concern, but we decided it'd be worth a shot after Mayer's work beat the closest other designer- Frank Lloyd Wright- in most categories.
+
+### Prompt Question: What part of the Engineering Design Process do you believe will be hardest for you? Why? Conversely, what step will be easiest and why?
+I honestly can't decide whether the creating or planning phase will be the hardest. Working with random scrap cardboard will be challenging, especially with the natural flow and cross-hatching in the designs we're inspired by. On the other hand, we definitely had an easy time researching and defining design criteria- can it hold weight, does it look cool, can we make it. Ask / Research was pretty light on our end.
