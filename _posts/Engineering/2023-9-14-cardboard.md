@@ -8,6 +8,26 @@ category : "Engineering"
 
 # Cardboard Engineering
 
+## 9-21-23
+Song of the day:  00. ~OUT ON THE STREET~ by Adolf Nomura
+
+Today we tested our hypothesis by presenting with other groups. Our goal was to hold 2-4 filled coffee cups, using the crosshatching to make it more stable. Among almost every group I personally talked to, we were told that the grid-styled legs may
+not be stable enough to even hold the weight. They could crumble immediately undeer the weight. Also, if placed in the center, the mugs might be too far from the legs to hold up the surface properly. We also received feedback that the design may
+be less interesting if it's not visible through the surface of the tabletop, which originally had a flat surface to distribute the weight evenly. 
+
+We gave some feedback- most notably to Anika and Jacob regarding how they might have to consider strengthening the interior to prevent collapse and also the # of pillars used being changed to reflect the artistic intent often seen in Grecco-Roman works.
+Their project is of similar size to ours, so we'll likely face similar challegnes.
+
+## 9-20-23
+Song of the day: FREE by exociety
+
+Friday last week was spent CADing. I'd categorize that as the plan phase. I've been doing work on the leg part of the table design while Owen coaches me through sketching. On Tuesday, we ended up adding line width to the lines on the leg and extruding it to our desired
+height- around 16 inches if I recall correctly. It's a basic grid-like pattern with the inner lines given width for the extrusion. About 4x4 inches in size if I remember correctly, with 2 lines travelling through both vertically and horizontally. 
+
+Overall, the CAD work is coming along well. Akash is doing the main surface of the table, and it's coming together nicely. We opted NOT to CAD the more natural features plastered onto the inspiration piece and instead do that fully manually. It'd just
+be a pain to CAD and not really worth it since we can't realistically be that precise with cardboard. We're hoping the natural curves and such associated with Jürgen Mayer's design will help bring the table enough stability to hold... something?
+What exactly that might be is undecided to some extent.
+
 ## 9-14-23
 Didn't get to journal yesterday but the content in this update stretches back to 9-13-23.
 
