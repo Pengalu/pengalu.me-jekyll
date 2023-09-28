@@ -51,3 +51,10 @@ Song of the day: Kind of Blue (Miles Davis)
 
 We entered our improve phase of the design process by just changing around the CAD model to be a more reasonable size. We originally had the size around 48x48 inches but decided to change the surface size to 32x32 inches to more easily manage weight in the center.
 We also considered that implementing the wavy / curvy structure may be too much of a time sink while building and may be more of a wish / afterthought. Aside from that, we spend most of today just mapping out and planning the cuts for our actual build day.
+
+## 9-26-23
+Song of the day: out of body by exociety (<3 meltycannon)
+
+Today we started the create phase of our process for this project. It, quite frankly, is not going too swimingly, but we'll work through it. The largest problem is cutting cardboard takes eons,
+we have to make 16 cross hatch elements to put under the table face and with 3/4 of our group members it took us a good 30 minutes to make 6 of em. At this point, I think we might consider
+downscaling next work session because we still ned to produce leg pieces. Aside from that, cut, glue, cut again.
