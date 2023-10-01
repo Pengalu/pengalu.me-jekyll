@@ -58,3 +58,17 @@ Song of the day: out of body by exociety (<3 meltycannon)
 Today we started the create phase of our process for this project. It, quite frankly, is not going too swimingly, but we'll work through it. The largest problem is cutting cardboard takes eons,
 we have to make 16 cross hatch elements to put under the table face and with 3/4 of our group members it took us a good 30 minutes to make 6 of em. At this point, I think we might consider
 downscaling next work session because we still ned to produce leg pieces. Aside from that, cut, glue, cut again.
+
+## 9-28-23
+Song of the day: Face First by Stage Kids
+
+Over Wednesday and the beginning of today we fully commited to a new plan for constructing our table. Firstly, we dropped the waves, it'd take too long. Secondly, the legs are no long the tic-
+tac-toe like grid that I designed but now uses only 2 pieces of cardboard crossed together to create the legs. Overall, I think with the new changes we will have enough time to finish building.
+
+## 9-29-23
+Song of the day: Lungs by Ben Beal
+
+We concluded our create phase of the project today by finishing our whole assembly. We cut a couple more cross-hatch pieces and got as many as we could attached before gluing down the legs.
+The crosshatching wasn't very secure either, so we places glue along every joing and used tape to prevent it from moving while drying. We will begin our test phase sometime next week, alongside
+finishing the posterboard for the project. Overall, I'd say that although we had to drop our original plans, we do have a final project with a roughly decent scale and an interesting-
+albeit unintended- design.
