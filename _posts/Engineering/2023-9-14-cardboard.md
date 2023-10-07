@@ -31,6 +31,9 @@ Song of the day: FREE by exociety
 Friday last week was spent CADing. I'd categorize that as the plan phase. I've been doing work on the leg part of the table design while Owen coaches me through sketching. On Tuesday, we ended up adding line width to the lines on the leg and extruding it to our desired
 height- around 16 inches if I recall correctly. It's a basic grid-like pattern with the inner lines given width for the extrusion. About 4x4 inches in size if I remember correctly, with 2 lines travelling through both vertically and horizontally. 
 
+Finished leg:
+<img src="/assets/photos/23-9-14-Cardboard/cad.png" width="200">
+
 Overall, the CAD work is coming along well. Akash is doing the main surface of the table, and it's coming together nicely. We opted NOT to CAD the more natural features plastered onto the inspiration piece and instead do that fully manually. It'd just
 be a pain to CAD and not really worth it since we can't realistically be that precise with cardboard. We're hoping the natural curves and such associated with Jürgen Mayer's design will help bring the table enough stability to hold... something?
 What exactly that might be is undecided to some extent.
@@ -42,6 +45,9 @@ Song of the day:  00. ~OUT ON THE STREET~ by Adolf Nomura
 Today we tested our hypothesis by presenting with other groups. Our goal was to hold 2-4 filled coffee cups, using the crosshatching to make it more stable. Among almost every group I personally talked to, we were told that the grid-styled legs may
 not be stable enough to even hold the weight. They could crumble immediately undeer the weight. Also, if placed in the center, the mugs might be too far from the legs to hold up the surface properly. We also received feedback that the design may
 be less interesting if it's not visible through the surface of the tabletop, which originally had a flat surface to distribute the weight evenly. 
+
+Pre-Feedback CAD:
+<img src="/assets/photos/23-9-14-Cardboard/fullCad.png" width="200">
 
 We gave some feedback- most notably to Anika and Jacob regarding how they might have to consider strengthening the interior to prevent collapse and also the # of pillars used being changed to reflect the artistic intent often seen in Grecco-Roman works.
 Their project is of similar size to ours, so we'll likely face similar challegnes.
@@ -59,11 +65,13 @@ Today we started the create phase of our process for this project. It, quite fra
 we have to make 16 cross hatch elements to put under the table face and with 3/4 of our group members it took us a good 30 minutes to make 6 of em. At this point, I think we might consider
 downscaling next work session because we still ned to produce leg pieces. Aside from that, cut, glue, cut again.
 
+Start of construction:
+<img src="/assets/photos/23-9-14-Cardboard/startConstruction.jpg" width="200">
+
 ## 9-28-23
 Song of the day: Face First by Stage Kids
 
-Over Wednesday and the beginning of today we fully commited to a new plan for constructing our table. Firstly, we dropped the waves, it'd take too long. Secondly, the legs are no long the tic-
-tac-toe like grid that I designed but now uses only 2 pieces of cardboard crossed together to create the legs. Overall, I think with the new changes we will have enough time to finish building.
+Over Wednesday and the beginning of today we fully commited to a new plan for constructing our table. Firstly, we dropped the waves, it'd take too long. It now looks more similar to the CAD. Secondly, the legs are no longer the tic-tac-toe like grid that I designed but now uses only 2 pieces of cardboard crossed together to create the legs. Overall, I think with the new changes we will have enough time to finish building.
 
 ## 9-29-23
 Song of the day: Lungs by Ben Beal
@@ -72,3 +80,13 @@ We concluded our create phase of the project today by finishing our whole assemb
 The crosshatching wasn't very secure either, so we places glue along every joing and used tape to prevent it from moving while drying. We will begin our test phase sometime next week, alongside
 finishing the posterboard for the project. Overall, I'd say that although we had to drop our original plans, we do have a final project with a roughly decent scale and an interesting-
 albeit unintended- design.
+
+Final picture:
+<img src="/assets/photos/23-9-14-Cardboard/fullTable.jpg" width="200">
+
+## 10-4-23
+Song of the day: Final Boss by exociety
+
+I should cover what we did yesterday since I forgot to journal on that. I wouldn't really be able to categorize it into a specific phase but I guess the build phase if nessecary. We just worked on a poster board with some content about Jürgen Mayer and how we drew inspiration from him and changed our CAD over time, similar to what's outlined here.
+
+Today we went around and critiqued the projects of other groups. I found that most of the chairs and seats designed were very sturdy and capable of supporting my weight and there were some really awesome shelves as well. One group made really good use of natural features at the base of their shelf where a pillar extended to hold up shelf units above the ground. 
