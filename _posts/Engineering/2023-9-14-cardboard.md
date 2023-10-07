@@ -34,6 +34,7 @@ Friday last week was spent CADing. I'd categorize that as the plan phase. I've b
 height- around 16 inches if I recall correctly. It's a basic grid-like pattern with the inner lines given width for the extrusion. About 4x4 inches in size if I remember correctly, with 2 lines travelling through both vertically and horizontally. 
 
 Finished leg:
+
 <img src="/assets/photos/23-9-14-Cardboard/cad.png" width="200">
 
 Overall, the CAD work is coming along well. Akash is doing the main surface of the table, and it's coming together nicely. We opted NOT to CAD the more natural features plastered onto the inspiration piece and instead do that fully manually. It'd just
@@ -50,6 +51,7 @@ not be stable enough to even hold the weight. They could crumble immediately und
 be less interesting if it's not visible through the surface of the tabletop, which originally had a flat surface to distribute the weight evenly. 
 
 Pre-Feedback CAD:
+
 <img src="/assets/photos/23-9-14-Cardboard/fullCad.png" width="200">
 
 We gave some feedback- most notably to Anika and Jacob regarding how they might have to consider strengthening the interior to prevent collapse and also the # of pillars used being changed to reflect the artistic intent often seen in Grecco-Roman works.
@@ -71,7 +73,8 @@ we have to make 16 cross hatch elements to put under the table face and with 3/4
 downscaling next work session because we still ned to produce leg pieces. Aside from that, cut, glue, cut again.
 
 Start of construction:
-<img src="/assets/photos/23-9-14-Cardboard/startConstruction.jpg" width="200">
+
+<img src="/assets/photos/23-9-14-Cardboard/startConstruction.jpg" width="400">
 
 ## 9-28-23
 ### Create/Improve
@@ -89,7 +92,8 @@ finishing the posterboard for the project. Overall, I'd say that although we had
 albeit unintended- design.
 
 Final picture:
-<img src="/assets/photos/23-9-14-Cardboard/fullTable.jpg" width="200">
+
+<img src="/assets/photos/23-9-14-Cardboard/fullTable.jpg" width="400">
 
 ## 10-4-23
 ### Create(?) & Test
