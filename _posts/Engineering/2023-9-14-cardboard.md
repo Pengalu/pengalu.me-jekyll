@@ -64,6 +64,10 @@ Song of the day: Kind of Blue (Miles Davis)
 We entered our improve phase of the design process by just changing around the CAD model to be a more reasonable size. We originally had the size around 48x48 inches but decided to change the surface size to 32x32 inches to more easily manage weight in the center.
 We also considered that implementing the wavy / curvy structure may be too much of a time sink while building and may be more of a wish / afterthought. Aside from that, we spend most of today just mapping out and planning the cuts for our actual build day.
 
+Final CAD:
+
+<img src="/assets/photos/23-9-14-Cardboard/finalCad.png" width="200">
+
 ## 9-26-23
 ### Create
 Song of the day: out of body by exociety (<3 meltycannon)
