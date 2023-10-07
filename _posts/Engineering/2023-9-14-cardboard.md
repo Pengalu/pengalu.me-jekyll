@@ -10,6 +10,7 @@ category : "Engineering"
 
 
 ## 9-14-23
+### Research
 Didn't get to journal yesterday but the content in this update stretches back to 9-13-23.
 
 Yesterday we entered our research phase by coming up with a list of designers and architects whose styles we could use to develop our piece. I was a big fan of Ronald Knol's work, mainly because it could be achieved using our primitive materials. A.G. Fronzoni had some
@@ -26,6 +27,7 @@ was a concern, but we decided it'd be worth a shot after Mayer's work beat the c
 I honestly can't decide whether the creating or planning phase will be the hardest. Working with random scrap cardboard will be challenging, especially with the natural flow and cross-hatching in the designs we're inspired by. On the other hand, we definitely had an easy time researching and defining design criteria- can it hold weight, does it look cool, can we make it. Ask / Research was pretty light on our end.
 
 ## 9-20-23
+### Plan
 Song of the day: FREE by exociety
 
 Friday last week was spent CADing. I'd categorize that as the plan phase. I've been doing work on the leg part of the table design while Owen coaches me through sketching. On Tuesday, we ended up adding line width to the lines on the leg and extruding it to our desired
@@ -40,6 +42,7 @@ What exactly that might be is undecided to some extent.
 
 
 ## 9-21-23
+### Plan/Test
 Song of the day:  00. ~OUT ON THE STREET~ by Adolf Nomura
 
 Today we tested our hypothesis by presenting with other groups. Our goal was to hold 2-4 filled coffee cups, using the crosshatching to make it more stable. Among almost every group I personally talked to, we were told that the grid-styled legs may
@@ -53,12 +56,14 @@ We gave some feedback- most notably to Anika and Jacob regarding how they might 
 Their project is of similar size to ours, so we'll likely face similar challegnes.
 
 ## 9-22-23
+### Improve
 Song of the day: Kind of Blue (Miles Davis)
 
 We entered our improve phase of the design process by just changing around the CAD model to be a more reasonable size. We originally had the size around 48x48 inches but decided to change the surface size to 32x32 inches to more easily manage weight in the center.
 We also considered that implementing the wavy / curvy structure may be too much of a time sink while building and may be more of a wish / afterthought. Aside from that, we spend most of today just mapping out and planning the cuts for our actual build day.
 
 ## 9-26-23
+### Create
 Song of the day: out of body by exociety (<3 meltycannon)
 
 Today we started the create phase of our process for this project. It, quite frankly, is not going too swimingly, but we'll work through it. The largest problem is cutting cardboard takes eons,
@@ -69,11 +74,13 @@ Start of construction:
 <img src="/assets/photos/23-9-14-Cardboard/startConstruction.jpg" width="200">
 
 ## 9-28-23
+### Create/Improve
 Song of the day: Face First by Stage Kids
 
 Over Wednesday and the beginning of today we fully commited to a new plan for constructing our table. Firstly, we dropped the waves, it'd take too long. It now looks more similar to the CAD. Secondly, the legs are no longer the tic-tac-toe like grid that I designed but now uses only 2 pieces of cardboard crossed together to create the legs. Overall, I think with the new changes we will have enough time to finish building.
 
 ## 9-29-23
+### Create
 Song of the day: Lungs by Ben Beal
 
 We concluded our create phase of the project today by finishing our whole assembly. We cut a couple more cross-hatch pieces and got as many as we could attached before gluing down the legs.
@@ -85,6 +92,7 @@ Final picture:
 <img src="/assets/photos/23-9-14-Cardboard/fullTable.jpg" width="200">
 
 ## 10-4-23
+### Create(?) & Test
 Song of the day: Final Boss by exociety
 
 I should cover what we did yesterday since I forgot to journal on that. I wouldn't really be able to categorize it into a specific phase but I guess the build phase if nessecary. We just worked on a poster board with some content about Jürgen Mayer and how we drew inspiration from him and changed our CAD over time, similar to what's outlined here.
