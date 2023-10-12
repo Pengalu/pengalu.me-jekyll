@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "3DP Engineering Journal"
+dateInformal: "September 14, 2023"
+author: "Pengalu"
+category : "Engineering"
+---
+
+# 3D Printing
+
+## 10-10-23 - Ask Phase
+
+Mostly spent today considering what I wanted to make for the project and thinking about the criteria. I figured this would be a good opportunity to make something for my s/o as a gift- thought of her flowers and since I've always been interested in 3D Printed plant pots (I had a couple potted plants in PETG structures) I thought it'd be fun to design my own. Looking at the criteria though, this isn't really possible. The criteria state your 3D printed thingumabob:
+- Can be held in one hand comfortably
+- Can be contained within a 12” (~305 mm) x 12” x 12” cube
+- Is comprised of three to seven 3D printed parts 
+- All parts are created from PLA filament
+- Total filament used during final production is less than 200 grams
+- All parts combine without being taped, glued, bolted, tied, or fastened together
+- Parts can combine by snapping together, interlocking, or other contact solutions
+- Must interact effectively and functionally with at least one non-3D printed object
+- thingumabob must NOT rely on non-3D printed object(s) for structural integrity
+- Must be school appropriate
+- Must be your design
+- Any motion MUST mostly come from human effort. No circuits allowed.
+
+Unfortunately, having to use several interlocking parts ruled out a simple vase design, but since the container can hold flowers / soil, etc. it meets the requirement of interacting with a non 3DP object. Thus, I think it'd be cool to have some sort of modular plant pot where you can remove portions (water basin, planting portion, perimiter decoration) and trade them for other ones, but they still have to be contained within 12x12 inches. Drawing inspiration from [this pot on printables](https://www.printables.com/model/225227-modular-planter-with-concrete-mold) might be a good idea.
+
+
+
