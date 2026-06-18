@@ -13,10 +13,10 @@ The goal of this portfolio was to capture the sense of curiosity in isolation---
 
 I submitted this portfolio in a really turbulent time in my life where I felt I had lost the few people who gave me purpose. This portfolio is a reflection on finding new paths away from the path we thought to follow.
 
-<img src="/assets/photos/2026-06-18/2026-01-23-0002.jpg/" width="500">
-<img src="/assets/photos/2026-06-18/2026-02-27-0001.jpg/" width="500">
-<img src="/assets/photos/2026-06-18/2026-02-28-0009.jpg/" width="500">
-<img src="/assets/photos/2026-06-18/2026-02-28-0023.jpg/" width="500">
-<img src="/assets/photos/2026-06-18/2026-03-15-0007.jpg/" width="500">
-<img src="/assets/photos/2026-06-18/2026-03-15-0015.jpg/" width="500">
-<img src="/assets/photos/2026-06-18/2026-03-15-0019.jpg/" width="500">
+<img src="/assets/photos/2026-06-18/2026-01-23-0002.jpg" width="500">
+<img src="/assets/photos/2026-06-18/2026-02-27-0001.jpg" width="500">
+<img src="/assets/photos/2026-06-18/2026-02-28-0009.jpg" width="500">
+<img src="/assets/photos/2026-06-18/2026-02-28-0023.jpg" width="500">
+<img src="/assets/photos/2026-06-18/2026-03-15-0007.jpg" width="500">
+<img src="/assets/photos/2026-06-18/2026-03-15-0015.jpg" width="500">
+<img src="/assets/photos/2026-06-18/2026-03-15-0019.jpg" width="500">
