@@ -66,11 +66,11 @@ body {
   visibility: hidden;
 
   font-size: 15px;
-  background-color: black;
-  color: #fff;
+  background-color: #fabd2f;
+  color: #1d2021;
   text-align: center;
   padding: 5px 0;
-  border-radius: 6px;
+  border-radius: 3px;
 
   /* Position the tooltip text - see examples below! */
   position: absolute;
